@@ -17,7 +17,7 @@ In this project, we have explored a combination of deep learning architectures t
 
 In our project, we have implemented approximately 20 machine learning approaches tailored for Human Activity Recognition (HAR). These approaches encompass a wide range of traditional machine learning algorithms, including Support Vector Machines (SVM), Random Forests, Gradient Boosting Machines (GBM), k-Nearest Neighbors (k-NN), and Decision Trees, among others. Additionally, Bayesian Machine Learning techniques have been incorporated to explore probabilistic models and enhance the accuracy of activity recognition. 
 
-## Performance Comparison
+##  Top Performance Comparison
 
 | Model Name                 | Accuracy (%) | 
 |----------------------------|--------------|
